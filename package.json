@@ -1,0 +1,14 @@
+{
+  "name": "rov_app",
+  "version": "1.0.0",
+  "description": "Desktop application for remoly operated vehicle builded via electronjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nefedov Nikolay",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.1.1"
+  }
+}
